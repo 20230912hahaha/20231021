@@ -62,6 +62,9 @@
 
 [bilibili弹幕网](https://www.bilibili.com "点击访问b站")
 
+# 图片插入
+![截图](C://Users//cui88//Desktop//333.jpg "悬停")
+
 # 代码插入
 
 ```c
